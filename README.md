@@ -27,15 +27,7 @@
 - User → Order (1:N)
 - Category → Product (1:N)
 
----
-
-## Как запустить локально
-
-### 1. Через Docker
-
-```bash
-docker-compose up --build
-
+##**Роли студентов**
 
 ### Nurbol
 - Backend архитектурасы
@@ -50,3 +42,12 @@ docker-compose up --build
 - Apollo Client + Zustand
 - Реалтайм Subscription UI
 - Docker (client)
+
+---
+
+## Как запустить локально
+
+### 1. Через Docker
+
+```bash
+docker-compose up --build
